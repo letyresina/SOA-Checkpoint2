@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d07a47b-c8f8-4dbc-ac04-df96030784db" name="Changes" comment="">
+    <list default="true" id="50baf434-ba2a-41c9-9aa5-76152933ac66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineStockService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineStockServiceImplementation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2x0YUPpAfnpsEZoKKrHijAhlTsO" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2x0vmFpQTABAsuxoYaL4O4aQqWw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -36,14 +42,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Loader.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.WinerySys [clean,install].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Leticia Resina/Documents/Workspasce/2025/SOA/Winery/Publisher/WinerySys"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -53,11 +57,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2d07a47b-c8f8-4dbc-ac04-df96030784db" name="Changes" comment="" />
-      <created>1747076473693</created>
+      <changelist id="50baf434-ba2a-41c9-9aa5-76152933ac66" name="Changes" comment="" />
+      <created>1747087964211</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1747076473693</updated>
+      <updated>1747087964211</updated>
     </task>
     <servers />
   </component>

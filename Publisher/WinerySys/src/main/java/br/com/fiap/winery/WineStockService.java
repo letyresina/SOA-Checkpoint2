@@ -12,4 +12,5 @@ public interface WineStockService {
 
     @WebMethod
     String placeOrder(String name, int quantity);
+
 }

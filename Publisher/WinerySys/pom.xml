@@ -14,9 +14,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
+  <packaging>jar</packaging>
 
   <dependencies>
     <dependency>
@@ -26,14 +27,14 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>com.sun.xml.ws</groupId>
+      <artifactId>jaxws-rt</artifactId>
+      <version>2.3.2</version>
+    </dependency>
+    <dependency>
       <groupId>jakarta.xml.ws</groupId>
       <artifactId>jakarta.xml.ws-api</artifactId>
       <version>4.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>jakarta.jws</groupId>
-      <artifactId>jakarta.jws-api</artifactId>
-      <version>3.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.sun.xml.ws</groupId>

@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @WebService(endpointInterface = "br.com.fiap.winery.WineStockService")
+
 public class WineStockServiceImplementation implements WineStockService {
     List<String> vinhos = Arrays.asList("Cabernet", "Merlot", "Chardonnay");
 
@@ -25,4 +26,5 @@ public class WineStockServiceImplementation implements WineStockService {
     public String placeOrder(String name, int quantity) {
         return "Pedido confirmado!";
     }
+
 }
